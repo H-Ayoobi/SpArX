@@ -1,6 +1,7 @@
 # SpArX: Sparse Argumentative Explanations for Neural Networks
 
-The ArXiv Version of the paper with Supplementary Materials (SM) is available at [https://arxiv.org/abs/2301.09559](https://arxiv.org/abs/2301.09559).
+The published version of the paper at proceedings of ECAI 2023 conference: https://ebooks.iospress.nl/volumearticle/64197
+The ArXiv version of the paper with Supplementary Materials (SM) is available at [https://arxiv.org/abs/2301.09559](https://arxiv.org/abs/2301.09559).
 ## Datasets:
 1. COMPAS Dataset - This is included in the data folder
 2. Cancer Dataset (UCI) - This is included in the data folder
