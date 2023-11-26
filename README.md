@@ -1,4 +1,4 @@
-# SpArX: Sparse Argumentative eXplanations for Neural Networks
+# SpArX: Sparse Argumentative Explanations for Neural Networks
 
 The ArXiv Version of the paper with Supplementary Materials (SM) is available at [https://arxiv.org/abs/2301.09559](https://arxiv.org/abs/2301.09559).
 ## Datasets:
